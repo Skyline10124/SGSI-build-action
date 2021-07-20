@@ -11,7 +11,7 @@ env:
   ZIP_NAME: 'redfin-spp1.210122.020.a3-factory-c1996236.zip'
   OS_TYPE: 'Pixel'
   BUILD_TYPE: 'a-only'
-  REPACK_NAME: 'SGSI-A12.zip'
+  REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
   upload_action-gh-release: 'true'
   SETUP: 'true'
