@@ -9,7 +9,7 @@ on:
 env:              
   ROM_URL: 'https://dl.google.com/developers/android/sc/images/factory/redfin-spp1.210122.020.a3-factory-c1996236.zip'
   ZIP_NAME: 'redfin-spp1.210122.020.a3-factory-c1996236.zip'
-  OS_TYPE: 'Gerenic'
+  OS_TYPE: 'Pixel'
   BUILD_TYPE: 'a-only'
   REPACK_NAME: 'SGSI-A12.zip'
   VERSION: '12'
